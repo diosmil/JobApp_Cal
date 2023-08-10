@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\LENOVO\Documents\proyectoFlutter\jop_app\build\windows\CMakeFiles\c562717088a2d2ebaac20ce8bdb96198\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D5D16778-9C5E-3C49-A539-17EA5AABAA3F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
