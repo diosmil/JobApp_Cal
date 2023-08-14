@@ -1,4 +1,4 @@
-#Thu Aug 10 18:40:17 AST 2023
+#Sun Aug 13 21:25:33 AST 2023
 base.0=C\:\\Users\\ingvi\\Desktop\\Final movil\\JobApp_Cal\\jop_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
