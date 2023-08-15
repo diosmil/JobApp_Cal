@@ -904,7 +904,7 @@
             "outputFile": "com.example.jop_app-merged_res-11:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\LENOVO\\Documents\\proyectoFlutter\\jop_app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\LENOVO\\Desktop\\intro ing soft\\JobApp_Cal\\jop_app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -1138,7 +1138,7 @@
             "outputFile": "com.example.jop_app-merged_res-11:/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\LENOVO\\Documents\\proyectoFlutter\\jop_app\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\LENOVO\\Desktop\\intro ing soft\\JobApp_Cal\\jop_app\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
